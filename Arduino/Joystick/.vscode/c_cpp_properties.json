@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Applications/Arduino Teensy.app/Contents/Java/hardware/tools/avr/avr/include/**",
+                "/Applications/Arduino Teensy.app/Contents/Java/hardware/teensy/avr/teensy3/**",
+                "/Applications/Arduino Teensy.app/Contents/Java/hardware/teensy/avr/libraries/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

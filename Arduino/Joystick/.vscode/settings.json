@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "Fastfile": "ruby",
+        "cstddef": "cpp",
+        "__bit_reference": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
